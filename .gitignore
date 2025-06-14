@@ -1,0 +1,22 @@
+# Obsidian
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/cache
+.obsidian/plugins/*/data.json
+
+# Jekyll
+blog/_site/
+blog/.sass-cache/
+blog/.jekyll-cache/
+blog/.jekyll-metadata
+blog/Gemfile.lock
+
+# System
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Dependencies
+node_modules/
